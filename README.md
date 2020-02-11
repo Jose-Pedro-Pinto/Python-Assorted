@@ -1,5 +1,5 @@
 # Python-Assorted
-An assortment of small python games and apps created using the pygame library.<br>
+An assortment of small <b>python<\b> games and apps created using the pygame library.<br>
 Folder aux_classes: A set of geometry, rendering and colision classes for use in the other programs.<br>
 Bouncing Ball Simulator: A simulator of a bouncing ball (A,W,S,D to move, L for an extra mode), also together with a second platformer game. (accessible by pressing P)<br>
 Chess: The game of Chess.<br>
