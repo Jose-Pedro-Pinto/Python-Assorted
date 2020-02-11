@@ -1,15 +1,15 @@
 # Python-Assorted
-An assortment of small <b>python</b> games and apps created using the pygame library.<br>
-Folder aux_classes: A set of geometry, rendering and colision classes for use in the other programs.<br>
-Bouncing Ball Simulator: A simulator of a bouncing ball (A,W,S,D to move, L for an extra mode), also together with a second platformer game. (accessible by pressing P)<br>
-Chess: The game of Chess.<br>
-clone_bomb: A program that clones it self repeatedly. (dangerous with the correct settings)<br>
-Flappy_Cube: A simple platformer game. (no relation to flappy bird other than in name)<br>
-shoty_mcgee: A simple twin stick shooter.<br>
-button.py: A test for the custom button objects.<br>
-not_paint.py: A drawing program similar to a very simple version of paint.<br>
-rainbow.py: Creates a rainbow.<br>
-screen_unsaver.py: Slowly changes color.<br>
-allgames.py: A selection menu for some of the games and apps previously mentioned.<br>
+An assortment of small <b>python</b> games and apps created using the <b>pygame</b> library.<br>
+Folder <b>aux_classes</b>: A set of <b>geometry</b>, <b>rendering</b> and <b>colision</b> classes for use in the other programs.<br>
+<b>Bouncing Ball Simulator</b>: A simulator of a bouncing ball (A,W,S,D to move, L for an extra mode), also together with a <b>second platformer game</b>. (accessible by pressing P)<br>
+<b>Chess</b>: The game of Chess.<br>
+<b>clone_bomb</b>: A program that clones it self repeatedly. (<b>dangerous</b> with the correct settings)<br>
+<b>Flappy_Cube</b>: A simple <b>platformer game</b>. (no relation to flappy bird other than in name)<br>
+<b>shoty_mcgee</b>: A simple <b>twin stick shooter</b>.<br>
+<b>button.py</b>: A test for the custom <b>button objects</b>.<br>
+<b>not_paint.py</b>: A <b>drawing program</b> similar to a very simple version of paint.<br>
+<b>rainbow.py</b>: Creates a rainbow.<br>
+<b>screen_unsaver.py</b>: Slowly changes color.<br>
+<b>allgames.py</b>: A <b>selection menu</b> for some of the games and apps previously mentioned.<br>
 <br>
-Note: The programs have a set of confusing dependencies and are extremely unorganised. For easy visualization download everything.<br>
+<b>Note: The programs have a set of confusing dependencies and are extremely unorganised. For easy visualization <b>download everything.<br>
