@@ -12,4 +12,4 @@ Folder <b>aux_classes</b>: A set of <b>geometry</b>, <b>rendering</b> and <b>col
 <b>screen_unsaver.py</b>: Slowly changes color.<br>
 <b>allgames.py</b>: A <b>selection menu</b> for some of the games and apps previously mentioned.<br>
 <br>
-<b>Note: The programs have a set of confusing dependencies and are extremely unorganised. For easy visualization <b>download everything.<br>
+<b>Note</b>: The programs have a set of confusing dependencies and are extremely unorganised. For easy visualization <b>download everything.<br>
